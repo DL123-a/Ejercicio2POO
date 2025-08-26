@@ -2,7 +2,7 @@ package Ejercicioindv;
 
 public class Cancha {
     private int numero;
-    private String tipo;      // "Futbol" | "Baloncesto" | "Tenis"
+    private String tipo; 
     private int capacidad;
     private double costoHora;
 
